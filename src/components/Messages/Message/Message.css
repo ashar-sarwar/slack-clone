@@ -1,0 +1,8 @@
+.message_self {
+  border-left: 2px solid orange;
+  padding-left: 8px;
+}
+
+.message_image {
+  padding: 1em;
+}
